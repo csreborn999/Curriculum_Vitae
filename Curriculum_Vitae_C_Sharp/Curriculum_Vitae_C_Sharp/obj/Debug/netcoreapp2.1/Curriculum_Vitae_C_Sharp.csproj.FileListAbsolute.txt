@@ -1,0 +1,11 @@
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\應徵資料\Curriculum_Vitae_C_Sharp\Curriculum_Vitae_C_Sharp\bin\Debug\netcoreapp2.1\Curriculum_Vitae_C_Sharp.deps.json
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\應徵資料\Curriculum_Vitae_C_Sharp\Curriculum_Vitae_C_Sharp\bin\Debug\netcoreapp2.1\Curriculum_Vitae_C_Sharp.runtimeconfig.json
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\應徵資料\Curriculum_Vitae_C_Sharp\Curriculum_Vitae_C_Sharp\bin\Debug\netcoreapp2.1\Curriculum_Vitae_C_Sharp.runtimeconfig.dev.json
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\應徵資料\Curriculum_Vitae_C_Sharp\Curriculum_Vitae_C_Sharp\bin\Debug\netcoreapp2.1\Curriculum_Vitae_C_Sharp.dll
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\應徵資料\Curriculum_Vitae_C_Sharp\Curriculum_Vitae_C_Sharp\bin\Debug\netcoreapp2.1\Curriculum_Vitae_C_Sharp.pdb
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\應徵資料\Curriculum_Vitae_C_Sharp\Curriculum_Vitae_C_Sharp\obj\Debug\netcoreapp2.1\Curriculum_Vitae_C_Sharp.csprojAssemblyReference.cache
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\應徵資料\Curriculum_Vitae_C_Sharp\Curriculum_Vitae_C_Sharp\obj\Debug\netcoreapp2.1\Curriculum_Vitae_C_Sharp.csproj.CoreCompileInputs.cache
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\應徵資料\Curriculum_Vitae_C_Sharp\Curriculum_Vitae_C_Sharp\obj\Debug\netcoreapp2.1\Curriculum_Vitae_C_Sharp.AssemblyInfoInputs.cache
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\應徵資料\Curriculum_Vitae_C_Sharp\Curriculum_Vitae_C_Sharp\obj\Debug\netcoreapp2.1\Curriculum_Vitae_C_Sharp.AssemblyInfo.cs
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\應徵資料\Curriculum_Vitae_C_Sharp\Curriculum_Vitae_C_Sharp\obj\Debug\netcoreapp2.1\Curriculum_Vitae_C_Sharp.dll
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\應徵資料\Curriculum_Vitae_C_Sharp\Curriculum_Vitae_C_Sharp\obj\Debug\netcoreapp2.1\Curriculum_Vitae_C_Sharp.pdb
