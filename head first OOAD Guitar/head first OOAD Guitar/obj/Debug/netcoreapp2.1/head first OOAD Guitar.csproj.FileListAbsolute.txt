@@ -1,0 +1,11 @@
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\head first OOAD Guitar\head first OOAD Guitar\bin\Debug\netcoreapp2.1\head first OOAD Guitar.deps.json
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\head first OOAD Guitar\head first OOAD Guitar\bin\Debug\netcoreapp2.1\head first OOAD Guitar.runtimeconfig.json
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\head first OOAD Guitar\head first OOAD Guitar\bin\Debug\netcoreapp2.1\head first OOAD Guitar.runtimeconfig.dev.json
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\head first OOAD Guitar\head first OOAD Guitar\bin\Debug\netcoreapp2.1\head first OOAD Guitar.dll
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\head first OOAD Guitar\head first OOAD Guitar\bin\Debug\netcoreapp2.1\head first OOAD Guitar.pdb
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\head first OOAD Guitar\head first OOAD Guitar\obj\Debug\netcoreapp2.1\head first OOAD Guitar.csprojAssemblyReference.cache
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\head first OOAD Guitar\head first OOAD Guitar\obj\Debug\netcoreapp2.1\head first OOAD Guitar.csproj.CoreCompileInputs.cache
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\head first OOAD Guitar\head first OOAD Guitar\obj\Debug\netcoreapp2.1\head first OOAD Guitar.AssemblyInfoInputs.cache
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\head first OOAD Guitar\head first OOAD Guitar\obj\Debug\netcoreapp2.1\head first OOAD Guitar.AssemblyInfo.cs
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\head first OOAD Guitar\head first OOAD Guitar\obj\Debug\netcoreapp2.1\head first OOAD Guitar.dll
+D:\電腦備份\電腦備份文件\程式設計\Visual Studio IDE\C#\head first OOAD Guitar\head first OOAD Guitar\obj\Debug\netcoreapp2.1\head first OOAD Guitar.pdb
