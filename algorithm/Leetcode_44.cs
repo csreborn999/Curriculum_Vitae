@@ -1,0 +1,89 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+/*************************
+ * 
+ * Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*'.
+ * '?' Matches any single character.
+ * '*' Matches any sequence of characters (including the empty sequence).
+ * The matching should cover the entire input string (not partial).
+
+ * Note:
+ * s could be empty and contains only lowercase letters a-z.
+ * p could be empty and contains only lowercase letters a-z, and characters like ? or *.
+
+ * Example 1:
+ * Input:
+ * s = "ghixjk"
+ * p = "*gh*j?"
+ * Output: true
+ * 
+ * Example 2:
+ * Input:
+ * s = "acdcb"
+ * p = "a*c?b"
+ * Output: false
+ */
+
+namespace Leetcode_19_11_06
+{
+    class Leetcode_44
+    {
+        public bool isMatch(String s, String p)
+        {
+            int sLen = s.Length, pLen = p.Length;
+            int sIdx = 0, pIdx = 0;
+            int starIdx = -1, sTmpIdx = -1;//sTmpIdx is current string pointer
+
+            while (sIdx < sLen)
+            {
+                // If the pattern caracter = string character
+                // or pattern character = '?'
+                if (pIdx < pLen && (p[pIdx] == '?' || p[pIdx] == s[sIdx]))
+                {
+                    ++sIdx;
+                    ++pIdx;
+                }
+                // If pattern character = '*'
+                else if (pIdx < pLen && p[pIdx] == '*')
+                {
+                    // Check the situation
+                    // when '*' matches no characters
+                    starIdx = pIdx;
+                    sTmpIdx = sIdx;
+                    ++pIdx;
+                }
+                // If pattern character != string character
+                // or pattern is used up
+                // and there was no '*' character in pattern 
+                else if (starIdx == -1)
+                {
+                    return false;
+                }
+                // If pattern character != string character
+                // or pattern is used up
+                // and there was '*' character in pattern before
+                else
+                {
+                    // Backtrack: check the situation
+                    // when '*' matches one more character
+                    pIdx = starIdx + 1;
+                    sIdx = sTmpIdx + 1;
+                    sTmpIdx = sIdx;
+                }
+            }
+            // The remaining characters in the pattern should all be '*' characters
+            for (int i = pIdx; i < pLen; i++)
+                if (p[i] != '*') return false;
+            return true;
+        }
+
+        static void Main(string[] args)
+        {
+            String s = "ghixjk", p = "*gh*j?";
+            Program myObj = new Program();
+            Console.WriteLine(myObj.isMatch(s, p));
+        }
+    }
+}
