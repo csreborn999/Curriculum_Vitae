@@ -8,7 +8,7 @@ using System.Text;
  * 
  * Given two integers x and y, calculate the Hamming distance.
  * 
- * Note: 0 ≤ x, y < 231.
+ * Note: 0 ≤ x, y < 2^31.
  * 
  * Example:
  * Input: x = 1, y = 4
