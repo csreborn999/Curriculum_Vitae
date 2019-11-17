@@ -12,7 +12,7 @@ import java.util.*;
  *
  **********************/
 
-public class Programs {
+public class Leetcode_136 {
     public int singleNumber(int[] nums) {
         int diff = 0;
         for (int i: nums) {
