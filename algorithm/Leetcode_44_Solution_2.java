@@ -58,7 +58,7 @@ public class Leetcode_44_Solution_2 {
 
     public static void main(String[] args) {
         String s = "ghixjk", p = "*gh*j?";
-        Programs myObj = new Programs();
+        Leetcode_44_Solution_2 myObj = new Leetcode_44_Solution_2();
         System.out.println(myObj.isMatch(s, p));
     }
 }
