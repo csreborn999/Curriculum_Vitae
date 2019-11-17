@@ -26,6 +26,6 @@ public class Leetcode_461 {
 
     public static void main(String[] args) {
     	int x = 72,y = 122;
-    	System.out.println(new Programs().hammingDistance(x,y));
+    	System.out.println(new Leetcode_461().hammingDistance(x,y));
     }
 }
